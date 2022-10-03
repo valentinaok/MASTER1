@@ -1,0 +1,15 @@
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\bin\Debug\net6.0\homeworkfin.exe
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\bin\Debug\net6.0\homeworkfin.deps.json
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\bin\Debug\net6.0\homeworkfin.runtimeconfig.json
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\bin\Debug\net6.0\homeworkfin.dll
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\bin\Debug\net6.0\homeworkfin.pdb
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.csproj.AssemblyReference.cache
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.AssemblyInfoInputs.cache
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.AssemblyInfo.cs
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.csproj.CoreCompileInputs.cache
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.dll
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\refint\homeworkfin.dll
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.pdb
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\homeworkfin.genruntimeconfig.cache
+C:\Users\Valentina\OneDrive\Рабочий стол\FinalHomework\homeworkfin\obj\Debug\net6.0\ref\homeworkfin.dll
